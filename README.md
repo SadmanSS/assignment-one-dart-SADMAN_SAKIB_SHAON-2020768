@@ -84,11 +84,20 @@ No issues found!
 
 ```
 assignment-one-dart-SADMAN_SAKIB_SHAON-2020768/
-├── question1.dart - question5.dart
-├── test/ (5 test files)
-├── test-results.png
+├── question1.dart
+├── question2.dart
+├── question3.dart
+├── question4.dart
+├── question5.dart
+├── test-results.png (screenshot of passing tests)
 ├── README.md
-└── pubspec.yaml
+├── pubspec.yaml
+└── test/
+    ├── question1_test.dart
+    ├── question2_test.dart
+    ├── question3_test.dart
+    ├── question4_test.dart
+    └── question5_test.dart
 ```
 
 ---
