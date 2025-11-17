@@ -60,7 +60,7 @@ $ dart test
 
 **Coverage:** 22/22 tests passing (Q1: 4, Q2: 4, Q3: 5, Q4: 5, Q5: 4)
 
-![Test Results](test-results.png)
+![Test Results](test_results.png)
 
 ---
 
